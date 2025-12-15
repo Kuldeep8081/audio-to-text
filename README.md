@@ -30,7 +30,7 @@ Before running the app, ensure you have the following installed:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/voice-to-text-app.git](https://github.com/your-username/voice-to-text-app.git)
+    git clone https://github.com/Kuldeep8081/audio-to-text.git
     cd voice-to-text-app
     ```
 
